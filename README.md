@@ -8,7 +8,7 @@ Created a model that does Handwritten Digit Recognition on MNIST dataset
 
 ## Code and Resources Used ##
 **Python Version:** 3.10.5 <br />
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn <br />
+**Packages:** pandas, numpy, sklearn, matplotlib <br />
 **For Web Framework Requirements:** _pip install -r requirements.txt_ <br />
 **Data Resources:** The dataset can be imported using the following code : <br />
 `from sklearn.datasets import fetch_openml` <br />
