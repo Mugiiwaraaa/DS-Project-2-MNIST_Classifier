@@ -1,5 +1,5 @@
 # DS-Project-2-MNIST_Classifier
-Created a model that does Handwritten Digit Recognition on MNIST dataset
+Created a model that does Handwritten Digit Recognition on the MNIST dataset
 
 * Designed a model that is able to identify hand written numbers.
 * Dataset - The MNIST-Dataset is a set of 70,000 small images of digits handwritten by high school students and employees of the US causes Bureau.
