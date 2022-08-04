@@ -1,0 +1,28 @@
+1. LogisticRegression classifier:
+                  
+             precision_score - 0.9285830751671287
+             recall_score - 0.9090183559457302
+             f1_Score - 0.9186965639619293
+             
+2. SGD Classifier:
+
+             precision_score - 0.909782960803369
+             recall_score - 0.8965682362330407
+             f1_Score - 0.9031272610338452
+
+             
+3. DecisionTree Classifier:
+
+             precision_score - 0.8808167141500475
+             recall_score - 0.8965682362330407
+             f1_Score - 0.8845267424302631
+
+             
+4. RandomForest Classifier:
+
+             precision_score - 0.9864040439253966
+             recall_score - 0.9032721468475658
+             f1_Score - 0.9430094984169306
+             
+            
+                              
