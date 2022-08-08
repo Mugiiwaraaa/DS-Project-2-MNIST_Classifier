@@ -4,7 +4,7 @@ Created a model that does Handwritten Digit Recognition on the MNIST dataset
 * Designed a model that is able to identify hand written numbers.
 * Dataset - The MNIST-Dataset is a set of 70,000 small images of digits handwritten by high school students and employees of the US causes Bureau.
   This dataset can be fetched using the fetch_openml library  
-* Model - The major aim of in this project is to be able to to identify handwritten digits based on the features using some of the classification techniques and algorithms. I have set a _condition_ for the binary classifier where the model has to identify the digit **7** . 
+* Model - The major aim in this project is to be able to to identify handwritten digits based on the features using some of the classification techniques and algorithms. I have set a _condition_ for the binary classifier where the model has to identify the digit **7** . 
 
 ## Code and Resources Used ##
 **Python Version:** 3.10.5 <br />
